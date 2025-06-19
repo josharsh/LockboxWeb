@@ -58,3 +58,4 @@ yarn.lock
 
 # Optional: pnpm lock file
 pnpm-lock.yaml
+.vercel

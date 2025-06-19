@@ -1,0 +1,15 @@
+{
+  "name": "LockBox",
+  "short_name": "LockBox",
+  "description": "Secure Password Manager for iOS",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "theme_color": "#007AFF",
+  "background_color": "#000000",
+  "display": "standalone"
+}
